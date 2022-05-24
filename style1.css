@@ -1,0 +1,40 @@
+* {
+    margin :0 px;
+}
+body {
+    background-color: rgba(248, 235, 50,.9);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+    background-color: rgb(32, 238, 204);
+    color: rgb(255, 255, 255);
+    font-size:25px;
+    font-family: cursive;
+    text-align: center;
+   /* margin-top:-10px;
+    margin-right: 250px;
+    margin-left: 250px; */
+    margin: 25px,25px,10px,10px;
+    padding: 20px 0px;
+   /* border: 1px solid rgb(135, 209, 252);*/
+    border-top:1px solid rgb(135, 209, 252); ;
+    border-bottom:1px solid rgb(135, 209, 252); ;
+  
+}
+.a:hover{
+    color:brown;
+    cursor: pointer;
+}
+.logo{
+    position: fixed;
+    width:100px;
+    bottom: 10px;
+    left: 10px;
+    opacity: .5;
+    
+}
+.logo:hover{
+    opacity: 1;
+}
