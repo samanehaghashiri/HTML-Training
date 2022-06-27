@@ -1,0 +1,35 @@
+h5
+{
+font-family:tahoma;
+font-size:18px;
+color:#000000;
+}
+a:hover {color:#1c5525; font-size:130% }
+body
+{
+background-repeat:no-repeat;
+color:#FFFFFF;
+font-family:tahoma;
+font:bold;
+}
+a
+{
+color:#f0e4e4;
+text-decoration:none;
+}
+td
+{
+background-repeat:no-repeat;
+background-position:center;
+}
+.style1 {font-size: 13px};
+
+.style2 
+{
+	color: #FFFFFF;
+	font-size: 24px;
+}
+.rep
+{
+background-repeat:repeat;
+}
